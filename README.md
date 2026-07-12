@@ -77,8 +77,8 @@ python3 failed_login_detector.py honeypot.log --threshold 2
 See `honeypot-listening.png` and `pipeline-detection-output.png` below for
 my actual tested output.
 
-![Honeypot logging connections](./honeypot-listening.png)
-![Pipeline detection output](./pipeline-detection-output.png)
+![Honeypot logging connections](./Screenshot%20Honeypot-listening.png)
+![Pipeline detection output](./Screenshot%20pipeline-detection-output.png)
 
 ## How it works
 
